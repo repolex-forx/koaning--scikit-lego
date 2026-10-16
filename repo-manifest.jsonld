@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/koaning/scikit-lego/commit/f329086cb176a03a4e7c78055d7f6ea906987d1c",
       "git:hexsha": "f329086cb176a03a4e7c78055d7f6ea906987d1c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/koaning/scikit-lego/commit/5da3a95e298dcac1c15540787a08ea79ba66c8eb",
