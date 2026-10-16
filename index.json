@@ -1,0 +1,11 @@
+{
+  "org": "koaning",
+  "repo": "scikit-lego",
+  "versions": [
+    {
+      "commit": "f329086cb176a03a4e7c78055d7f6ea906987d1c",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:35:45.173095+00:00"
+    }
+  ]
+}
